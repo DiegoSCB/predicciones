@@ -1,0 +1,1722 @@
+SENT 5:  Can you just let me out, man?
+PRED 5:  I need to talk to you.
+
+SENT 7:  I HAVE A RIGHT TO <unk> <unk> ALL RIGHT?
+PRED 7:  AND I DON'T WANT TO RIGHT
+
+SENT 23:  How about your Iron Head?
+PRED 23:  I told you I don't have any kung fu
+
+SENT 25:  Would you please stop sending me those?
+PRED 25:  I don't want to go to jail.
+
+SENT 35:  Which, to be honest, I seem to be very bad at, cos you know what?
+PRED 35:  It was a good idea.
+
+SENT 75:  And how do you imagine, the Energy Control get back to my ship?
+PRED 75:  They have ship? the ship.
+
+SENT 89:  And why don't you think I can find a woman for myself?
+PRED 89:  Because you're a woman.
+
+SENT 195:  And what about the <unk> <unk> seminar?
+PRED 195:  I thought you were going to tell me.
+
+SENT 207:  are you spreading a love ready?
+PRED 207:  If you don't believe me, you can tell me.
+
+SENT 323:  You know what I think?
+PRED 323:  I think you're a think?
+
+SENT 343:  What does that mean?
+PRED 343:  It means I don't want to go to jail.
+
+SENT 397:  Are you sick?
+PRED 397:  No, I'm not sick.
+
+SENT 405:  A <unk> an apology, and a new review?
+PRED 405:  It's not a review?
+
+SENT 451:  So you know who I am?
+PRED 451:  I know who you are.
+
+SENT 493:  What about it?
+PRED 493:  I don't know what to say.
+
+SENT 573:  Brick, you asked me why you have to be friends with other kids, all right?
+PRED 573:  I don't want to be friends with you.
+
+SENT 595:  But what is he saying?
+PRED 595:  He is saying that you are a saying?
+
+SENT 611:  A coupon?
+PRED 611:  I don't think so.
+
+SENT 671:  Isn't it hard for you guys to be on opposite sides of something like this?
+PRED 671:  I mean, I don't know what you're talking about.
+
+SENT 723:  Can I help you?
+PRED 723:  I'm looking for help help
+
+SENT 725:  How far will our <unk> species have wandered by the end of the next century, and the next <unk>
+PRED 725:  The answer lies in the century, of century,
+
+SENT 729:  Me, in a porno film?
+PRED 729:  I don't think so.
+
+SENT 737:  Um, what steps are you taking to avoid such choices in the future?
+PRED 737:  I'm going to try to find a way to make it work.
+
+SENT 755:  Are you convinced this is being spread by dirty needles?
+PRED 755:  I'm not getting needles?
+
+SENT 809:  What, I'm fixin ' to strap you down in another hour ?
+PRED 809:  That was the idea.
+
+SENT 815:  Do you mind leaving through the service entrance?
+PRED 815:  I'll be right back.
+
+SENT 823:  Yes, it does matter, okay?
+PRED 823:  I don't care what you think.
+
+SENT 841:  Nikki, what happened to my relaxing Eastern Bell music?
+PRED 841:  I got it right here.
+
+SENT 889:  You know something?
+PRED 889:  I don't think I can do this.
+
+SENT 981:  What was your duty as criminal investigator?
+PRED 981:  To arrest criminal
+
+SENT 1075:  What do you mean it doesn't matter?
+PRED 1075:  It doesn't matter.
+
+SENT 1085:  Why are you scolding him unnecessarily?
+PRED 1085:  He is lying to you.
+
+SENT 1087:  Where are we here on your aerial map?
+PRED 1087:  We're in the aerial
+
+SENT 1089:  Do you remember, after the battle, you stopped <unk> from taking the dagger I'd won?
+PRED 1089:  That dagger is the key to the dagger
+
+SENT 1093:  You're a real scumbag, you know that?
+PRED 1093:  You're a scumbag,
+
+SENT 1109:  If you didn't see anything, why would you say you didn't see anything?
+PRED 1109:  I didn't see anything.
+
+SENT 1115:  Ah, who knows?
+PRED 1115:  You might even be able to help me out.
+
+SENT 1119:  Look, every business has an initial investment, okay?
+PRED 1119:  And if you don't get out of here,
+
+SENT 1131:  You know what?
+PRED 1131:  I don't want to talk about it.
+
+SENT 1149:  What, you think your buddy's going to help you when you're screaming and a bear's ripping your face off?
+PRED 1149:  I don't think so.
+
+SENT 1175:  You're afraid of that sissy?
+PRED 1175:  I'm not afraid of anything.
+
+SENT 1177:  Buzz and <unk> helped you see my side?
+PRED 1177:  I don't think so.
+
+SENT 1181:  Perhaps have we met before?
+PRED 1181:  I don't think so.
+
+SENT 1249:  You think you're special, Cowboy?
+PRED 1249:  You got a big mouth.
+
+SENT 1283:  You know what?
+PRED 1283:  I don't want to talk about it.
+
+SENT 1301:  You know what those <unk> you're so fond of talking about were really afraid of?
+PRED 1301:  They were afraid of you.
+
+SENT 1347:  Miss <unk> what arrangements do you make from there?
+PRED 1347:  I have to make a living.
+
+SENT 1365:  Well, how would they uncover what happened to Nancy Sloan, unless someone from the <unk> told them?
+PRED 1365:  We need to know what they know.
+
+SENT 1423:  You know what?
+PRED 1423:  I don't want to talk about it.
+
+SENT 1451:  Why do you ask?
+PRED 1451:  I was just wondering.
+
+SENT 1457:  So you're going to go to your reunion and continue to lie?
+PRED 1457:  I'm not going to lie.
+
+SENT 1465:  What for, Herbie?
+PRED 1465:  So I can get some sleep.
+
+SENT 1487:  ls anybody in the booth or is it just me down here by myself?
+PRED 1487:  Somebody help me!
+
+SENT 1501:  What you doing here, Tommy?
+PRED 1501:  You know what I'm doing.
+
+SENT 1507:  Well, you know what?
+PRED 1507:  I don't want to talk about it.
+
+SENT 1537:  Oh, and I'm the bad guy?
+PRED 1537:  I don't think so.
+
+SENT 1547:  Why not?
+PRED 1547:  Because I don't want you to get hurt.
+
+SENT 1565:  And all this is my fault?
+PRED 1565:  I didn't say that.
+
+SENT 1571:  Why not?
+PRED 1571:  Because I don't want you to get hurt.
+
+SENT 1599:  So, what do you want?
+PRED 1599:  I want you to come with me.
+
+SENT 1605:  Are you having a hard time living here in <unk>
+PRED 1605:  It's not a big deal.
+
+SENT 1609:  You want Hercules?
+PRED 1609:  I'll give you Hercules?
+
+SENT 1661:  So, <unk> why don't you tell us more about what's brought you in here today?
+PRED 1661:  Well, this is a today?
+
+SENT 1671:  Where's Millie?
+PRED 1671:  She's in her room.
+
+SENT 1681:  You don't remember?
+PRED 1681:  I don't remember.
+
+SENT 1751:  You know what?
+PRED 1751:  I don't want to talk about it.
+
+SENT 1757:  Does it hurt?
+PRED 1757:  No, it doesn't hurt.
+
+SENT 1811:  There's this thing, you know?
+PRED 1811:  It's like a thing,
+
+SENT 1899:  How do you know her?
+PRED 1899:  I don't know her.
+
+SENT 1963:  Then why do you conjure up this?
+PRED 1963:  To get away from you.
+
+SENT 1991:  Know what?
+PRED 1991:  I don't want to talk about it.
+
+SENT 2027:  I'm telling you, there's something really strange about this woman, all right?
+PRED 2027:  She's got a woman,
+
+SENT 2041:  Shouldn't they be held in confinement?
+PRED 2041:  They don't need a confinement?
+
+SENT 2081:  You know what?
+PRED 2081:  I don't want to talk about it.
+
+SENT 2087:  <unk> OF <unk> What does the Prophet Mohammed say?
+PRED 2087:  He says that he is a murderer.
+
+SENT 2141:  Can you loan me 100 francs?
+PRED 2141:  I'll pay you back.
+
+SENT 2153:  Do you know how I know?
+PRED 2153:  Because I was there.
+
+SENT 2199:  Why is that?
+PRED 2199:  I don't know, but I don't like it.
+
+SENT 2277:  Can I tell you something?
+PRED 2277:  You can tell me anything.
+
+SENT 2281:  Couldn't resist, huh?
+PRED 2281:  Well, I got to get to work.
+
+SENT 2315:  What do you want, girl?
+PRED 2315:  I want you to tell me the truth.
+
+SENT 2319:  Leo, are you sure of this contraption?
+PRED 2319:  This is a contraption?
+
+SENT 2325:  But Calvin <unk> is in a secure unit, isn't he?
+PRED 2325:  I mean, I don't know what you're talking about.
+
+SENT 2329:  Who do you think you're talking to, some kid that fixes bicycles?
+PRED 2329:  You don't know what you're talking about.
+
+SENT 2361:  Three guineas?
+PRED 2361:  That's a guineas?
+
+SENT 2397:  What Pack kid?
+PRED 2397:  I don't even know who that is.
+
+SENT 2419:  Miss <unk> what are you doing here?
+PRED 2419:  I came to see you.
+
+SENT 2451:  Uh, Long Beach, why?
+PRED 2451:  Well, I wanted to talk to you about something.
+
+SENT 2513:  Well, maybe she's been through enough, all right?
+PRED 2513:  I don't know what to do.
+
+SENT 2523:  Did the 12 years old Swedish <unk> <unk> fit this description of <unk>
+PRED 2523:  I don't think so.
+
+SENT 2529:  We're not trying to get kicked out of the airport, okay?
+PRED 2529:  We're not going to airport,
+
+SENT 2715:  Who knows?
+PRED 2715:  You might be able to help me with that.
+
+SENT 2717:  So why don't you girls crawl into the open sewer pipe you call the Holland Tunnel and flush <unk> back to pretty much New York ?
+PRED 2717:  I don't think so.
+
+SENT 2761:  Are you kidding?
+PRED 2761:  I don't know what to do.
+
+SENT 2829:  Why bother?
+PRED 2829:  I don't know what to do.
+
+SENT 2835:  Pardon, sir?
+PRED 2835:  I thought I heard something.
+
+SENT 2857:  My employer has instructed me to keep you alive, but not comfortable, so I'll ask you once - - what is the <unk> and how do you know about it?
+PRED 2857:  I know everything about you.
+
+SENT 2881:  Now why would you nominate us for a <unk> award without even mentioning it first?
+PRED 2881:  Because I thought it would make you feel better.
+
+SENT 2901:  But anyway, none of that matters now okay?
+PRED 2901:  It matters to me.
+
+SENT 2905:  How long had you known your wife was running around with Quill?
+PRED 2905:  I didn't know her that well.
+
+SENT 3105:  Hey, how can I help you guys?
+PRED 3105:  We're looking for help help
+
+SENT 3127:  Know what, <unk>
+PRED 3127:  I don't want to talk about it.
+
+SENT 3169:  Would you mind explaining what's happening in the fireplace?
+PRED 3169:  I don't understand.
+
+SENT 3171:  And if so, might the early teachings of the <unk> be evidence that ancient Tibetan Buddhist monks had knowledge of time travel thousands of years ago, as some ancient astronaut theorists believe?
+PRED 3171:  Perhaps further evidence can be found by examining a mysterious travel
+
+SENT 3175:  Why not?
+PRED 3175:  Because I don't want you to get hurt.
+
+SENT 3255:  You know what?
+PRED 3255:  I don't want to talk about it.
+
+SENT 3277:  What's there to be guilty about?
+PRED 3277:  I don't want to go to jail.
+
+SENT 3311:  Let me stop you right here, okay?
+PRED 3311:  I don't want you to get hurt.
+
+SENT 3383:  And then what happened?
+PRED 3383:  I went to the happened?
+
+SENT 3541:  What up, superstar?
+PRED 3541:  I got a little surprise for you.
+
+SENT 3549:  Who to the <unk> cottage would not gladly return?
+PRED 3549:  The gladly of gladly
+
+SENT 3555:  No kidding?
+PRED 3555:  I don't think so.
+
+SENT 3567:  What are you doing back here?
+PRED 3567:  I just wanted to see you.
+
+SENT 3581:  What did he say?
+PRED 3581:  He said he was going to did
+
+SENT 3623:  But you know what?
+PRED 3623:  I don't want to talk about it.
+
+SENT 3647:  This was all just some big ploy for attention, wasn't it?
+PRED 3647:  I mean, you were the one who told me to do it.
+
+SENT 3693:  There's a problem?
+PRED 3693:  No, there's no problem.
+
+SENT 3701:  Um, that's not why I came, could I have a word with Gyoo Won?
+PRED 3701:  She's busy right now.
+
+SENT 3709:  Is it for you, Mistress Anne, the palace?
+PRED 3709:  It's not for you to decide.
+
+SENT 3713:  Can I help you?
+PRED 3713:  I'm looking for help help
+
+SENT 3841:  Can I help you?
+PRED 3841:  I'm looking for help help
+
+SENT 3889:  And then what happened?
+PRED 3889:  I went to the happened?
+
+SENT 3903:  Look, they don't have any evidence, all right?
+PRED 3903:  They don't know what they want.
+
+SENT 3929:  Promise what?
+PRED 3929:  I promise I won't tell anyone.
+
+SENT 3969:  Your pictures?
+PRED 3969:  I don't think so.
+
+SENT 3971:  What's your business here?
+PRED 3971:  My name is What's
+
+SENT 4005:  You don't get it, do you?
+PRED 4005:  I don't want to see you anymore.
+
+SENT 4139:  Might these <unk> abilities, forever lost to time, have been made possible by extraterrestrial visitors?
+PRED 4139:  Perhaps further clues can be found by examining the stories of visitors? abilities,
+
+SENT 4191:  and I kinda said, What's going on?
+PRED 4191:  And I said, I don't know.
+
+SENT 4245:  Look, why can't the <unk> I hire get their clients to put the <unk> numbers on their check <unk>
+PRED 4245:  Because they don't trust you.
+
+SENT 4251:  Hey, well, that wasn't our best performance ever but not something to get arrested for, right?
+PRED 4251:  Hey, hey, hey, hey.
+
+SENT 4339:  Don't you see?
+PRED 4339:  This is what we do.
+
+SENT 4349:  Why not?
+PRED 4349:  Because I don't want you to get hurt.
+
+SENT 4413:  Well, I can't go anywhere, all right?
+PRED 4413:  I'm not going anywhere.
+
+SENT 4465:  What did she tell you?
+PRED 4465:  She told me that you were a tell
+
+SENT 4709:  You think love is a gamble?
+PRED 4709:  I don't know what to think.
+
+SENT 4769:  So I'm crazy?
+PRED 4769:  You're not crazy.
+
+SENT 4891:  Why didn't you tell us that he is an advocate?
+PRED 4891:  He is a advocate?
+
+SENT 4899:  You looked at 24 blokes?
+PRED 4899:  I looked in the blokes?
+
+SENT 4985:  Where are these killers typically found?
+PRED 4985:  They are typically
+
+SENT 5069:  So, Jack, if you didn't come here to kill me, why are you here?
+PRED 5069:  I want to talk to you.
+
+SENT 5091:  Can you blame him?
+PRED 5091:  I don't know what you're talking about.
+
+SENT 5119:  Second nominee and why?
+PRED 5119:  Our second nominee is...
+
+SENT 5177:  Don't you think you're selfish?
+PRED 5177:  You don't have to be selfish.
+
+SENT 5189:  Why aren't you defending yourself?
+PRED 5189:  I'm not defending myself.
+
+SENT 5215:  What are you getting at?
+PRED 5215:  I think you know what I'm talking about.
+
+SENT 5275:  Know what?
+PRED 5275:  I don't want to talk about it.
+
+SENT 5307:  You think you have the right, just because you come from a famous law school, to allow you to luxury <unk> such a case?
+PRED 5307:  You don't know what you're talking about.
+
+SENT 5363:  What do you know about a hacker?
+PRED 5363:  You don't even know him.
+
+SENT 5377:  Why not?
+PRED 5377:  Because I don't want you to get hurt.
+
+SENT 5387:  Why am I doin ' all the fightin ' around here?
+PRED 5387:  Because you're the leader.
+
+SENT 5413:  Why should I be rewarded for what I've done?
+PRED 5413:  I don't know what to do.
+
+SENT 5447:  Why would you do that?
+PRED 5447:  Because I love you.
+
+SENT 5481:  Now, if you really want to help <unk> so much, why don't you sell me your shares of the <unk> Corporation?
+PRED 5481:  I want you to trust me.
+
+SENT 5505:  You're gonna protect her?
+PRED 5505:  I'm gonna protect her.
+
+SENT 5515:  He's a threat to his children?
+PRED 5515:  He's not a threat.
+
+SENT 5535:  What about you, Hayley?
+PRED 5535:  I don't think so.
+
+SENT 5583:  What can I do for you?
+PRED 5583:  I need to talk to you.
+
+SENT 5737:  Is that the same load of crap that you shovel down your team's throat?
+PRED 5737:  It wasn't my throat?
+
+SENT 5791:  But if space is like a fabric that can stretch and bend?
+PRED 5791:  That's exactly what it is.
+
+SENT 5863:  Who knows?
+PRED 5863:  You might be able to help me with that.
+
+SENT 5869:  Does it hurt?
+PRED 5869:  No, it doesn't hurt.
+
+SENT 5873:  Why me?
+PRED 5873:  Because you're a me?
+
+SENT 5945:  Why don't you crawl back under that rock you came from?
+PRED 5945:  I don't know what you're talking about.
+
+SENT 5977:  Didn't <unk> ever teach you that patience is a virtue?
+PRED 5977:  You are a virtue?
+
+SENT 5991:  Assault with a deadly weapon ?
+PRED 5991:  He said he was gonna call the cops.
+
+SENT 6017:  What did you tell her?
+PRED 6017:  I didn't tell her anything.
+
+SENT 6021:  Why not?
+PRED 6021:  Because I don't want you to get hurt.
+
+SENT 6089:  I said, Why don't we ring them up and see if they want to do a show with us?
+PRED 6089:  And they said, No, no, no.
+
+SENT 6111:  This contains his findings on the mortgage fraud, all right?
+PRED 6111:  It's not just a sample.
+
+SENT 6127:  Before <unk> was my little sister's husband, he was my friend, you know?
+PRED 6127:  He was my friend.
+
+SENT 6267:  What, really?
+PRED 6267:  I don't know what to say.
+
+SENT 6321:  But what happened between that moment of <unk> and the AP image <unk> years later?
+PRED 6321:  The answer to that question can be found in the stories of the AP
+
+SENT 6339:  You working?
+PRED 6339:  Yeah, I'm working.
+
+SENT 6345:  You told tom?
+PRED 6345:  I didn't tell him.
+
+SENT 6397:  Why not?
+PRED 6397:  Because I don't want you to get hurt.
+
+SENT 6399:  You know the best thing about your power tapes?
+PRED 6399:  You can still get them.
+
+SENT 6405:  Now, why don't you tell me how you met?
+PRED 6405:  We met at a party.
+
+SENT 6411:  Wine shots, huh?
+PRED 6411:  I'll have a beer.
+
+SENT 6433:  Why do you think you should stay in Hell's Kitchen?
+PRED 6433:  I think I should stay.
+
+SENT 6435:  What was he saying?
+PRED 6435:  He was talking about the saying?
+
+SENT 6445:  Give us a break, OK, bro?
+PRED 6445:  I don't know what you're talking about.
+
+SENT 6455:  You know what?
+PRED 6455:  I don't want to talk about it.
+
+SENT 6461:  Where's your uniform?
+PRED 6461:  I don't have one.
+
+SENT 6509:  How do you know this?
+PRED 6509:  Because I was there.
+
+SENT 6567:  There's the money he's <unk> remember?
+PRED 6567:  He's got the money.
+
+SENT 6605:  Know what?
+PRED 6605:  I don't want to talk about it.
+
+SENT 6651:  Are you kidding?
+PRED 6651:  I don't know what to do.
+
+SENT 6671:  Just a couple of basic tricks, all right?
+PRED 6671:  I don't know what you're talking about.
+
+SENT 6717:  What about a tennis court?
+PRED 6717:  I don't want a tennis court.
+
+SENT 6853:  That I didn't do what?
+PRED 6853:  You know what you did.
+
+SENT 6855:  If he wakes up and the first thing he sees is me wearing Kitty scrubs?
+PRED 6855:  That's not gonna happen.
+
+SENT 6885:  Why not?
+PRED 6885:  Because I don't want you to get hurt.
+
+SENT 6913:  Why don't you tell me what you guys talked about so I can make some sense of this?
+PRED 6913:  I don't know what you're talking about.
+
+SENT 6931:  What am I going to do a cheque, Your Honour?
+PRED 6931:  You can do anything you want.
+
+SENT 6941:  Who said anything about a lawyer?
+PRED 6941:  I don't want to talk about it.
+
+SENT 6945:  You still aren't stopping?
+PRED 6945:  I don't want to stop.
+
+SENT 6979:  I know how to handle this, okay?
+PRED 6979:  I know how to handle this.
+
+SENT 7011:  And why would i do that?
+PRED 7011:  Because if you don't,
+
+SENT 7013:  What do you mean it's not important?
+PRED 7013:  It's not important.
+
+SENT 7067:  You think I'm going to bow my head in mourning?
+PRED 7067:  I'm not going to fight you.
+
+SENT 7103:  California Institute of the Arts?
+PRED 7103:  You must be joking.
+
+SENT 7111:  Do you see any likeness here?
+PRED 7111:  There are likeness
+
+SENT 7123:  Are you proposing to amend the amendment?
+PRED 7123:  I'm not telling you anything.
+
+SENT 7133:  You're just starting to work on this now?
+PRED 7133:  I don't know what you're talking about.
+
+SENT 7191:  You want a war?
+PRED 7191:  I'll give you a war.
+
+SENT 7217:  Madam, why are you parking your bike there?
+PRED 7217:  I don't have a car.
+
+SENT 7239:  So it's fine to stay at a <unk> that your father recommended?
+PRED 7239:  I don't want to stay here.
+
+SENT 7249:  So why don't you head on back to the house?
+PRED 7249:  I'll be right back.
+
+SENT 7357:  What does that mean?
+PRED 7357:  It means I don't want to go to jail.
+
+SENT 7363:  Can there be a more respected figure?
+PRED 7363:  Of course there is.
+
+SENT 7459:  You know what?
+PRED 7459:  I don't want to talk about it.
+
+SENT 7475:  My father?
+PRED 7475:  I don't think so.
+
+SENT 7477:  The money was there, you know?
+PRED 7477:  The money was in there.
+
+SENT 7489:  What time was this, Mr Harris?
+PRED 7489:  Quarter past six.
+
+SENT 7497:  You know what?
+PRED 7497:  I don't want to talk about it.
+
+SENT 7533:  What exactly did you do?
+PRED 7533:  I did what I had to do.
+
+SENT 7591:  Why not?
+PRED 7591:  Because I don't want you to get hurt.
+
+SENT 7641:  Well, can you tell me something about the day?
+PRED 7641:  I don't know what you're talking about.
+
+SENT 7681:  Instead, why did you fall asleep?
+PRED 7681:  I couldn't sleep.
+
+SENT 7699:  Why not?
+PRED 7699:  Because I don't want you to get hurt.
+
+SENT 7705:  And then what?
+PRED 7705:  I don't know what to do.
+
+SENT 7725:  Could you get everyone's attention for me, please?
+PRED 7725:  I have a very important announcement to make.
+
+SENT 7763:  What can we do for you today?
+PRED 7763:  I need to talk to you.
+
+SENT 7957:  I'm not feeling this right now, okay?
+PRED 7957:  I feel like I'm in a now,
+
+SENT 8035:  Professor Hamilton, do you hear me?
+PRED 8035:  We have a problem.
+
+SENT 8093:  And then what?
+PRED 8093:  I don't know what to do.
+
+SENT 8185:  Why not?
+PRED 8185:  Because I don't want you to get hurt.
+
+SENT 8277:  Are you always this bloody hilarious?
+PRED 8277:  I was just trying to help.
+
+SENT 8279:  How do you mean?
+PRED 8279:  I don't know what you mean.
+
+SENT 8339:  What did she say?
+PRED 8339:  She said she wants to talk to you.
+
+SENT 8357:  I'm <unk> on my sorrows and you are bothered about the strength of the whisky is it not?
+PRED 8357:  If you don't want to talk about it...
+
+SENT 8361:  You want a pickle?
+PRED 8361:  I'll give you a pickle?
+
+SENT 8371:  Did you know that every day in the united states, more chickens are killed than all the people in the <unk> genocide?
+PRED 8371:  I don't know what you're talking about.
+
+SENT 8411:  You folks want to just come right out and tell me why we got a call to come here tonight?
+PRED 8411:  We got a tonight?
+
+SENT 8471:  From that, you've got me all figured out?
+PRED 8471:  I don't think so.
+
+SENT 8493:  just kids like Gene, you know?
+PRED 8493:  They were like, kids
+
+SENT 8533:  Will you stop telling me to be cool?
+PRED 8533:  I don't know what you're talking about.
+
+SENT 8535:  Do we support <unk> and defeat Cleopatra or vice versa?
+PRED 8535:  There is no choice, vice
+
+SENT 8569:  Do I really have to explain that to you?
+PRED 8569:  You don't have to.
+
+SENT 8599:  Well, we've <unk> some numbers, and we think- - what about the weapons systems?
+PRED 8599:  We don't have time for that.
+
+SENT 8613:  Why are you helping me?
+PRED 8613:  Because I want to help you.
+
+SENT 8637:  What about her?
+PRED 8637:  I don't know what you're talking about.
+
+SENT 8643:  Stefano <unk> gonna be there?
+PRED 8643:  I don't know what you're talking about.
+
+SENT 8671:  Yeah, yeah, we did, but you know what?
+PRED 8671:  It was a good thing.
+
+SENT 8737:  So what can I do for you?
+PRED 8737:  Well, I was hoping you could help me with something.
+
+SENT 8755:  Everywhere?
+PRED 8755:  Yeah, everywhere.
+
+SENT 8805:  Can I help you?
+PRED 8805:  I'm looking for help help
+
+SENT 8807:  Will, what are you doing all the way out here?
+PRED 8807:  I wanted to talk to you.
+
+SENT 8837:  <unk> No, no, no, have you no ambition?
+PRED 8837:  You have no ambition.
+
+SENT 9037:  Do you realise what kind of cooperation this will take?
+PRED 9037:  I don't want to talk about it.
+
+SENT 9071:  What - what are you doing here?
+PRED 9071:  I came to see you.
+
+SENT 9093:  What gold mine, senor?
+PRED 9093:  The one with the gold.
+
+SENT 9147:  Haven't you heard what they're saying about you?
+PRED 9147:  They said you were a you?
+
+SENT 9233:  What's your problem with money suddenly?
+PRED 9233:  I don't have any.
+
+SENT 9345:  Actually, do you know what?
+PRED 9345:  I don't think I can do that.
+
+SENT 9377:  How can I help you, sir?
+PRED 9377:  I'm looking for can can
+
+SENT 9407:  Ever wonder where the term your number's up came from?
+PRED 9407:  It never occurred to me.
+
+SENT 9433:  Why do you so dislike being filmed?
+PRED 9433:  Because I like it.
+
+SENT 9471:  See, Mr <unk>
+PRED 9471:  I told you it was See,
+
+SENT 9479:  have you been applying anything to your genital region?
+PRED 9479:  just the usual genital
+
+SENT 9485:  That creepy lawyer from the club?
+PRED 9485:  I thought he was your friend.
+
+SENT 9499:  I started thinking Who else had access to it, beside you and me?
+PRED 9499:  I thought it was beside
+
+SENT 9517:  Justice?
+PRED 9517:  I don't know what you're talking about.
+
+SENT 9575:  Why don't you make me go in a jersey and skirt?
+PRED 9575:  I don't think I can do that.
+
+SENT 9677:  What did he say?
+PRED 9677:  He said he was going to did
+
+SENT 9685:  And if I gave you a seed?
+PRED 9685:  I'll give you a seed?
+
+SENT 9701:  We just rest our head on each other's butts?
+PRED 9701:  I don't think so.
+
+SENT 9777:  I've got <unk> from Tokyo, every network, and you pull a stunt like this?
+PRED 9777:  I'm sorry, Tokyo,
+
+SENT 9783:  And I've been lying on the beach all day?
+PRED 9783:  I don't think so.
+
+SENT 9865:  I don't always agree with Melissa, but when she asked for a little help in monitoring your sugar <unk> I thought, you know what?
+PRED 9865:  I don't want to hear it.
+
+SENT 9867:  Don't you realize that everything he's done <unk> the doctor-patient relationship?
+PRED 9867:  He's not the problem.
+
+SENT 9887:  Look, why don't you just tell us what the hell you want?
+PRED 9887:  I want to help you.
+
+SENT 9933:  What do you know about chicks?
+PRED 9933:  You don't know what you're talking about.
+
+SENT 9975:  Honey, don't you think you're getting a little carried away?
+PRED 9975:  I mean, this is just a carried
+
+SENT 10027:  What are you getting at?
+PRED 10027:  I think you know what I'm talking about.
+
+SENT 10065:  You know what I want you to do?
+PRED 10065:  I want you to get out of my house.
+
+SENT 10125:  Monkey, where?
+PRED 10125:  You are a Monkey,
+
+SENT 10235:  Don't you see?
+PRED 10235:  This is what we do.
+
+SENT 10341:  What about, uh, what about your family?
+PRED 10341:  I don't have any.
+
+SENT 10361:  Exactly what did they tell you?
+PRED 10361:  They told me that I was a tell
+
+SENT 10401:  Okay, pay attention, okay?
+PRED 10401:  I don't want to be a attention,
+
+SENT 10411:  And where've you been?
+PRED 10411:  I've been looking for you.
+
+SENT 10419:  Return?
+PRED 10419:  They want you to return to Return?
+
+SENT 10497:  Given up on the Secret Service?
+PRED 10497:  I don't know what you're talking about.
+
+SENT 10503:  Is this supposed to be a costume party?
+PRED 10503:  It's a costume party.
+
+SENT 10517:  What' your problem?
+PRED 10517:  I don' have a problem.
+
+SENT 10531:  And then?
+PRED 10531:  And then I went home.
+
+SENT 10569:  How does the title Hospital Hop grab you?
+PRED 10569:  It goes to the Hospital
+
+SENT 10719:  _ _ _ _ What are you doing here?
+PRED 10719:  I came to see you.
+
+SENT 10763:  Can I help you?
+PRED 10763:  I'm looking for help help
+
+SENT 10765:  Sister, how come you know I am here?
+PRED 10765:  I have come to see you
+
+SENT 10795:  Why not?
+PRED 10795:  Because I don't want you to get hurt.
+
+SENT 10811:  Patrick, what can I do for you?
+PRED 10811:  I need to talk to you.
+
+SENT 10883:  And why would I do that?
+PRED 10883:  Because if you don't,
+
+SENT 10899:  We done?
+PRED 10899:  Yeah, we're done.
+
+SENT 10901:  Did you hear what he said about Trudy?
+PRED 10901:  Yeah, I heard him.
+
+SENT 10911:  You decided to spice it up?
+PRED 10911:  It wasn't like that.
+
+SENT 10913:  You're calling him a liar?
+PRED 10913:  I'm not calling him a liar.
+
+SENT 11023:  Why do you want to bring me?
+PRED 11023:  Because I want to see you.
+
+SENT 11025:  Why not?
+PRED 11025:  Because I don't want you to get hurt.
+
+SENT 11037:  What was that surprising thing Serena told you?
+PRED 11037:  She said you were a Serena
+
+SENT 11039:  Alpha Team, what's your status?
+PRED 11039:  We're about to begin.
+
+SENT 11065:  hand delivery from the heritage foundation?
+PRED 11065:  Well, it's a bit late for that.
+
+SENT 11093:  Suppose we call Columbo?
+PRED 11093:  I don't think so.
+
+SENT 11137:  How do you feel about the <unk> stand on welfare?
+PRED 11137:  I can't stand the stand.
+
+SENT 11159:  Why'd you bring him to nick?
+PRED 11159:  He was gonna kill me.
+
+SENT 11161:  You know what her problem is?
+PRED 11161:  She doesn't like you.
+
+SENT 11203:  You know what?
+PRED 11203:  I don't want to talk about it.
+
+SENT 11249:  You don't wanna go to classes, you just wanna play in a lab?
+PRED 11249:  I don't wanna go to college.
+
+SENT 11265:  <unk> a single gene from a spider to a goat is one thing, but what if we had power over the entire genetic code of a life form?
+PRED 11265:  Well, that would be a miracle.
+
+SENT 11307:  You know what?
+PRED 11307:  I don't want to talk about it.
+
+SENT 11329:  Can I help you?
+PRED 11329:  I'm looking for help help
+
+SENT 11331:  Well, if you're such a perfect father, can you explain to this court why you have never paid child support?
+PRED 11331:  Because my father is a child
+
+SENT 11369:  Excuse me, Your Honor?
+PRED 11369:  I have a question.
+
+SENT 11383:  What do you mean by retired?
+PRED 11383:  I mean the retired?
+
+SENT 11441:  So vulnerable means she has to fuck everyone in New York and fuck up my life?
+PRED 11441:  I don't think so.
+
+SENT 11503:  WHO DOESN'T LIKE PIZZA?
+PRED 11503:  I DON'T LIKE PIZZA?
+
+SENT 11511:  Why not?
+PRED 11511:  Because I don't want you to get hurt.
+
+SENT 11515:  Lose your brain to the army and you start working in some car shop your whole life?
+PRED 11515:  It's not like that.
+
+SENT 11527:  What do you think about when I'm up against the wall?
+PRED 11527:  I think you're a wall?
+
+SENT 11529:  Beating people up with your two <unk> sticking by your side?
+PRED 11529:  I don't know what you're talking about.
+
+SENT 11581:  Why not?
+PRED 11581:  Because I don't want you to get hurt.
+
+SENT 11635:  Are you talking to me?
+PRED 11635:  I'm talking to you.
+
+SENT 11655:  Didn't you say we just have to get through 100 days safely?
+PRED 11655:  We have to do it now.
+
+SENT 11705:  You know what?
+PRED 11705:  I don't want to talk about it.
+
+SENT 11739:  Barry, can't you calm down for one minute?
+PRED 11739:  I don't want to talk about it.
+
+SENT 11741:  What kind of a daft name's that to call an animal?
+PRED 11741:  I don't know what you're talking about.
+
+SENT 11799:  Where do you think I got the fuckin ' pictures from, Jess?
+PRED 11799:  I got my sources.
+
+SENT 11825:  You know what?
+PRED 11825:  I don't want to talk about it.
+
+SENT 11891:  Isn't that cool?
+PRED 11891:  Yeah, that's cool.
+
+SENT 11917:  Do I know him?
+PRED 11917:  I don't think so.
+
+SENT 11929:  So tell me, stranger with no name, whose side are you on?
+PRED 11929:  I'm not on anybody's side.
+
+SENT 11991:  You know what the problem is with you people?
+PRED 11991:  You don't know what to do.
+
+SENT 12097:  My girlfriend?
+PRED 12097:  She's not my girlfriend.
+
+SENT 12119:  And if he's going to <unk> why stop off at Titan 3?
+PRED 12119:  Because he's Titan
+
+SENT 12145:  They Were all asked the same question, Why Would this Woman kill her sister?
+PRED 12145:  And the answer was simple.
+
+SENT 12157:  Trading your morning run for a little sunrise meditation?
+PRED 12157:  I'm trying to help you.
+
+SENT 12185:  So you think her Alzheimer's is masking her guilt, do you?
+PRED 12185:  That's a good point.
+
+SENT 12195:  Don't you want to become a designer like that?
+PRED 12195:  I don't think so.
+
+SENT 12237:  What brings you here?
+PRED 12237:  I came to see you.
+
+SENT 12251:  Would you take it easy?
+PRED 12251:  I'm trying to help you.
+
+SENT 12289:  I need to not be doing this right now, okay?
+PRED 12289:  I need to be alone.
+
+SENT 12339:  I was thinking you'd like to take a holiday or something, you know?
+PRED 12339:  We could go to holiday
+
+SENT 12355:  Don't bullshit me, all right?
+PRED 12355:  I don't know what you're talking about.
+
+SENT 12365:  Maybe you could stop by my office tomorrow afternoon?
+PRED 12365:  I don't think so.
+
+SENT 12381:  You know what, Liam?
+PRED 12381:  You don't have to do this.
+
+SENT 12385:  What, and risk talking to your mother?
+PRED 12385:  I don't think so.
+
+SENT 12393:  Look, see?
+PRED 12393:  I told you it was see?
+
+SENT 12449:  That just <unk> some ashes is going to make me trust you?
+PRED 12449:  I didn't say that.
+
+SENT 12503:  Monica, what were you doing up here that late?
+PRED 12503:  I was just about to ask you the same thing.
+
+SENT 12517:  Listen, under different circumstances, well, who knows?
+PRED 12517:  I mean, I don't know.
+
+SENT 12523:  What brings you here?
+PRED 12523:  I came to see you.
+
+SENT 12559:  How do you feel about the presidential candidates?
+PRED 12559:  The president of the United States.
+
+SENT 12627:  The <unk> is throwing up in the toilet, he'd watch me paying, see?
+PRED 12627:  I don't have a paying,
+
+SENT 12633:  What about her?
+PRED 12633:  I don't know what you're talking about.
+
+SENT 12669:  is this all you've learned, Morgana?
+PRED 12669:  To Morgana? the Morgana?
+
+SENT 12799:  It's one of my favorite scenes actually when Joey says to Ryan, like, You're Ryan Hardy, right?
+PRED 12799:  And then you come to me and you say,
+
+SENT 12803:  What about the elections?
+PRED 12803:  Forget the elections.
+
+SENT 12807:  Is it serious?
+PRED 12807:  I don't think so.
+
+SENT 12847:  Why are you laughing?
+PRED 12847:  I'm not laughing.
+
+SENT 12863:  You really want to risk an <unk> nuclear war?
+PRED 12863:  I don't know what to do.
+
+SENT 12889:  How come I don't got no main lady?
+PRED 12889:  'Cause you ain't got no lady?
+
+SENT 12909:  Do you hear that rattle?
+PRED 12909:  It sounds like...
+
+SENT 12991:  # Be so heartless?
+PRED 12991:  # How do you know
+
+SENT 13065:  What does it matter what I think?
+PRED 13065:  It matters to me.
+
+SENT 13085:  What look?
+PRED 13085:  The look that says,
+
+SENT 13139:  I said, fine, sir, why don't you drink it with your tea?
+PRED 13139:  And he said, I don't know what you're talking about.
+
+SENT 13241:  Why not?
+PRED 13241:  Because I don't want you to get hurt.
+
+SENT 13247:  Last night?
+PRED 13247:  I don't know what you're talking about.
+
+SENT 13269:  Why don't you both live here?
+PRED 13269:  We can live here.
+
+SENT 13277:  Why should I give you my secret remedy?
+PRED 13277:  Because I love you.
+
+SENT 13279:  What do you mean, no?
+PRED 13279:  I don't want to go to jail.
+
+SENT 13437:  Oh, here?
+PRED 13437:  I don't think so.
+
+SENT 13449:  Oh, man, y 'all can take a hundred <unk> still sweat the Nam, you know what I mean?
+PRED 13449:  Yeah, I know what you mean.
+
+SENT 13451:  You know what?
+PRED 13451:  I don't want to talk about it.
+
+SENT 13523:  Why not?
+PRED 13523:  Because I don't want you to get hurt.
+
+SENT 13543:  Now, mein <unk> may I see your papers, please?
+PRED 13543:  Yes, Your Honour.
+
+SENT 13569:  Will you use your title, Mr Graves?
+PRED 13569:  I'm proud of my Graves?
+
+SENT 13601:  Hiya, Hon?
+PRED 13601:  I need you to get me a Hiya,
+
+SENT 13621:  What were you doing blabbing to him about our operations?
+PRED 13621:  I was operations?
+
+SENT 13701:  Will you forget the report?
+PRED 13701:  I don't know what you're talking about.
+
+SENT 13719:  You telling me you never had a thing for bad boys, Kate?
+PRED 13719:  I'm telling you the truth.
+
+SENT 13723:  You know why he stays?
+PRED 13723:  He wants us to be happy.
+
+SENT 13751:  What did she say?
+PRED 13751:  She said she wants to talk to you.
+
+SENT 13797:  Well, don't you care?
+PRED 13797:  Of course I care.
+
+SENT 13853:  You coming?
+PRED 13853:  I'll be right there.
+
+SENT 13885:  At this time?
+PRED 13885:  I have something to tell you.
+
+SENT 13891:  Okay, but it doesn't matter, all right?
+PRED 13891:  I don't care what you think.
+
+SENT 13897:  Yeah, so?
+PRED 13897:  I don't know what to say.
+
+SENT 13907:  Sang Chul, are you here?
+PRED 13907:  You should have stayed at home.
+
+SENT 13951:  Why don't you take up photography again?
+PRED 13951:  You look like a photography
+
+SENT 14013:  Remember those love songs you guys used to write?
+PRED 14013:  I got them for you.
+
+SENT 14015:  So why did you come to Babylon 5?
+PRED 14015:  To find out who killed my brother.
+
+SENT 14071:  What's with the boxes?
+PRED 14071:  I thought we were going to the movies.
+
+SENT 14089:  Where would you like to go, Jake '?
+PRED 14089:  Anywhere you want.
+
+SENT 14159:  Yes, Kevin?
+PRED 14159:  I don't know what to say.
+
+SENT 14195:  Monsieur Poirot, are you aware that would take nearly two hours to pedal around the island from <unk> Bay to <unk> Bay?
+PRED 14195:  At twelve o 'clock.
+
+SENT 14259:  And now to find out that Burt killed him?
+PRED 14259:  I don't think so.
+
+SENT 14295:  Her name's Sawyer, okay?
+PRED 14295:  Just tell her that.
+
+SENT 14297:  Or is that too monumental an effort, completing whole sentences?
+PRED 14297:  I don't think so.
+
+SENT 14347:  You want to know who to blame for your shitty lives?
+PRED 14347:  You should be ashamed of yourself.
+
+SENT 14397:  They will see me in the future, and, you know what?
+PRED 14397:  I don't want to see you anymore.
+
+SENT 14407:  Okay, we're not gonna use <unk> okay?
+PRED 14407:  We're not gonna use <unk>
+
+SENT 14445:  The fact that no one even asked me whether I wanted to go to this lousy Odessa?
+PRED 14445:  I don't know what to do.
+
+SENT 14533:  Why didn't you tell me?
+PRED 14533:  I didn't want you to worry.
+
+SENT 14549:  Why ask for me to leave?
+PRED 14549:  I want you to leave.
+
+SENT 14561:  Do you seen that they have put in the net and made me walk in front?
+PRED 14561:  I don't think so.
+
+SENT 14565:  You're calling me a violent stalker?
+PRED 14565:  I didn't say that.
+
+SENT 14581:  I mean, pick a side already, right?
+PRED 14581:  I don't think so.
+
+SENT 14633:  I ask her to catch some worms and she's sleeping?
+PRED 14633:  I don't want to talk about it.
+
+SENT 14657:  You know what you're gonna do?
+PRED 14657:  You're gonna go back to You
+
+SENT 14673:  You know why?
+PRED 14673:  Because you're a know
+
+SENT 14761:  Why's that?
+PRED 14761:  Because I don't want you to get hurt.
+
+SENT 14853:  Can I help you?
+PRED 14853:  I'm looking for help help
+
+SENT 14881:  It is meant to be, and you know why?
+PRED 14881:  Because you are a know
+
+SENT 14889:  Why would there be a puncture wound in the outer aspect of the thigh?
+PRED 14889:  According to the thigh?
+
+SENT 14893:  You know what?
+PRED 14893:  I don't want to talk about it.
+
+SENT 14953:  No, you know what?
+PRED 14953:  I don't want to talk about it.
+
+SENT 14985:  What'd he say?
+PRED 14985:  He said he was going to kill me.
+
+SENT 14995:  You know what?
+PRED 14995:  I don't want to talk about it.
+
+SENT 15021:  And I just remembered thinking, What are we gonna do?
+PRED 15021:  And I was like, I don't know.
+
+SENT 15049:  You talking to me?
+PRED 15049:  I'm talking to you.
+
+SENT 15085:  Steal a pilot's uniform, fly a plane?
+PRED 15085:  I have no idea what you're talking about.
+
+SENT 15087:  Sleeping Beauty?
+PRED 15087:  I don't think so.
+
+SENT 15103:  Might?
+PRED 15103:  It's about the Might?
+
+SENT 15117:  You have a problem?
+PRED 15117:  No, I don't have a problem.
+
+SENT 15235:  I'll tell you, you know what I would do if the bumper fell off my car while I was committing a crime?
+PRED 15235:  I would go to the police.
+
+SENT 15367:  I like you, <unk> but what can you know about such things?
+PRED 15367:  I don't know anything.
+
+SENT 15373:  Why are you a coward?
+PRED 15373:  I'm not a coward.
+
+SENT 15375:  Clark, what are you doing here?
+PRED 15375:  I came to see you.
+
+SENT 15417:  Really, Mom, don't you think it's the prettiest dress ever?
+PRED 15417:  She has such a beautiful face.
+
+SENT 15451:  Why should I care about you and Parliament?
+PRED 15451:  You don't even know me.
+
+SENT 15477:  Remember Martin, the fund manager?
+PRED 15477:  He wants to talk to you.
+
+SENT 15527:  If William Shakespeare is familiar?
+PRED 15527:  I don't think so.
+
+SENT 15617:  Why should I become a clerk?
+PRED 15617:  Because you are a clerk?
+
+SENT 15669:  Why not?
+PRED 15669:  Because I don't want you to get hurt.
+
+SENT 15693:  The <unk> <unk> - Why?
+PRED 15693:  Because I want to be with you.
+
+SENT 15697:  May I help you?
+PRED 15697:  I'm looking for I help
+
+SENT 15763:  What do you want from her?
+PRED 15763:  I want to talk to her.
+
+SENT 15807:  And if I cannot?
+PRED 15807:  Then I will kill you.
+
+SENT 15819:  Why not?
+PRED 15819:  Because I don't want you to get hurt.
+
+SENT 15855:  Why not?
+PRED 15855:  Because I don't want you to get hurt.
+
+SENT 15911:  I got to <unk> e a dime under the pillow, okay?
+PRED 15911:  I don't have time for this.
+
+SENT 15917:  How about we start with the badges?
+PRED 15917:  I don't want to be a badges?
+
+SENT 15943:  And do you think I want it to be Hector there, cutting the umbilical cord?
+PRED 15943:  I want to be with you.
+
+SENT 15949:  How can I be of assistance to you?
+PRED 15949:  I'm looking for assistance
+
+SENT 15979:  I got a good one, okay?
+PRED 15979:  I got a good one.
+
+SENT 15991:  You know what I'm going to do?
+PRED 15991:  I'm going to call the police.
+
+SENT 16007:  Who died and elected you pope?
+PRED 16007:  This isn't about you.
+
+SENT 16037:  You know what?
+PRED 16037:  I don't want to talk about it.
+
+SENT 16059:  Why's that?
+PRED 16059:  Because I don't want you to get hurt.
+
+SENT 16165:  Why do you not lie in the deepest hole of the sea <unk> and bloated and at peace with honorable death?
+PRED 16165:  I will not spare you!
+
+SENT 16229:  How do you know so much about me?
+PRED 16229:  Because I know you.
+
+SENT 16249:  What does it matter?
+PRED 16249:  It matters to me.
+
+SENT 16267:  Can I help you?
+PRED 16267:  I'm looking for help help
+
+SENT 16303:  And then what?
+PRED 16303:  I don't know what to do.
+
+SENT 16323:  You know what?
+PRED 16323:  I don't want to talk about it.
+
+SENT 16383:  The Witch?
+PRED 16383:  I don't think so.
+
+SENT 16387:  He's got a mega yogurt shoot on, and he's up to here, right?
+PRED 16387:  He's got a yogurt
+
+SENT 16425:  What brings you here?
+PRED 16425:  I came to see you.
+
+SENT 16429:  What about her?
+PRED 16429:  I don't know what you're talking about.
+
+SENT 16439:  You know what?
+PRED 16439:  I don't want to talk about it.
+
+SENT 16471:  Actually, you know what?
+PRED 16471:  I think I'm gonna go with what?
+
+SENT 16475:  Can't a guy ask a girl what she's thinkin '?
+PRED 16475:  I'll tell you what.
+
+SENT 16537:  I have it all in writing, you see?
+PRED 16537:  I don't know what to say.
+
+SENT 16565:  Can I help you with something?
+PRED 16565:  I don't think so.
+
+SENT 16579:  You know what my son's doing while I'm out fighting?
+PRED 16579:  He's playing fighting?
+
+SENT 16615:  Are you talking to me?
+PRED 16615:  I'm talking to you.
+
+SENT 16617:  With it being Saturday, how about the seaside?
+PRED 16617:  The weather's nice
+
+SENT 16643:  So you're offering to be my knight in shining armor, is that it?
+PRED 16643:  That's exactly what I'm saying.
+
+SENT 16693:  Where do we stand with Agent Skye?
+PRED 16693:  Well, the Skye? still working on the Skye?
+
+SENT 16717:  Why drag my poor mom into this?
+PRED 16717:  I don't know what to do.
+
+SENT 16757:  When the farm workers staged a demonstration yesterday, what did the government do?
+PRED 16757:  They were government
+
+SENT 16781:  Where's my lovely lady?
+PRED 16781:  She's in her room.
+
+SENT 16783:  What if the alien had reached the Earth?
+PRED 16783:  It would have been reached
+
+SENT 16831:  If we had a son, Sarah, wouldn't you want someone like me helping him prepare for what he was about to face?
+PRED 16831:  I don't think so.
+
+SENT 16929:  A virginity test?
+PRED 16929:  I don't think so.
+
+SENT 16961:  <unk> so why you wanna mug me?
+PRED 16961:  I need to talk to you.
+
+SENT 16999:  You know what?
+PRED 16999:  I don't want to talk about it.
+
+SENT 17013:  What are you doing with my wife's ex, Ray?
+PRED 17013:  I'm looking for her.
+
+SENT 17035:  <unk> what if one of us has a really great idea, and the other one is too stoned to get it?
+PRED 17035:  Then we have to make it happen.
+
+SENT 17045:  You think you're gonna dissect me in three <unk> <unk> eye?
+PRED 17045:  I don't think so.
+
+SENT 17051:  Mike, are you fucking kidding?
+PRED 17051:  I don't know what you're talking about.
+
+SENT 17055:  What did he say?
+PRED 17055:  He said he was going to did
+
+SENT 17061:  No, didn't I tell you already?
+PRED 17061:  I don't want to see you again.
+
+SENT 17065:  Why don't you take it easy, buddy?
+PRED 17065:  You got a lot of nerve.
+
+SENT 17129:  What do you care?
+PRED 17129:  You don't care about me.
+
+SENT 17185:  What did he say?
+PRED 17185:  He said he was going to did
+
+SENT 17215:  What can I do for you?
+PRED 17215:  I need to talk to you.
+
+SENT 17235:  Is that a preview of <unk> speech or, uh, just the long way around to saying no ?
+PRED 17235:  It's a little bit of both.
+
+SENT 17245:  I mean, I got 18 cents in my pocket, you know that?
+PRED 17245:  I don't give a shit.
+
+SENT 17305:  The Devil asks, ' Who's playing?
+PRED 17305:  ' it's the playing?
+
+SENT 17319:  What difference does it make if they lose there, or lose in the final?
+PRED 17319:  The difference is that I don't want to lose them.
+
+SENT 17345:  And why?
+PRED 17345:  Because of the why?
+
+SENT 17403:  I am being responsible, okay?
+PRED 17403:  I don't want to be responsible,
+
+SENT 17407:  Don't you understand?
+PRED 17407:  I don't want to see you anymore.
+
+SENT 17445:  And you blamed that one on <unk>
+PRED 17445:  I didn't deny it.
+
+SENT 17483:  You know what else?
+PRED 17483:  I don't want to hear about it.
+
+SENT 17499:  It's ironic, right?
+PRED 17499:  I don't know what you're talking about.
+
+SENT 17501:  And then what?
+PRED 17501:  I don't know what to do.
+
+SENT 17505:  You're going to bed so early, master?
+PRED 17505:  I'm going to bed.
+
+SENT 17555:  Uh, Senator Peyton puts on some <unk> strikes a few hero <unk> and looks like she's saving the world from evil?
+PRED 17555:  I don't think so.
+
+SENT 17597:  This thing's a fucking mess, though, we're just cleaning it out, you know?
+PRED 17597:  It's like a cleaning
+
+SENT 17607:  Why don`t I just take half of <unk> food anyway?
+PRED 17607:  Because you don`t have a food
+
+SENT 17697:  Return?
+PRED 17697:  They want you to return to Return?
+
+SENT 17717:  Wait, what lies?
+PRED 17717:  The lie you told me about Wait,
+
+SENT 17767:  Have we met?
+PRED 17767:  I don't think so.
+
+SENT 17813:  Caitlin, I was never in love with you, all right?
+PRED 17813:  I was in love with you.
+
+SENT 17901:  We need your help, okay?
+PRED 17901:  We need to get out of here.
+
+SENT 17943:  While you unlock the atom <unk> directory?
+PRED 17943:  I don't think so.
+
+SENT 17947:  What d 'you know about anything?
+PRED 17947:  You don't know anything.
+
+SENT 17969:  What do you know about diseases?
+PRED 17969:  I know what I know.
+
+SENT 17981:  How-how did you get in?
+PRED 17981:  The door was open.
+
+SENT 18017:  You know what?
+PRED 18017:  I don't want to talk about it.
+
+SENT 18041:  You think your life is over?
+PRED 18041:  You have no life.
+
+SENT 18085:  Why bother?
+PRED 18085:  I don't know what to do.
+
+SENT 18103:  Are you familiar with the concept of a telegraph <unk> fist?
+PRED 18103:  I like to think of myself as a telegraph
+
+SENT 18151:  You still up?
+PRED 18151:  I couldn't sleep.
+
+SENT 18155:  Do you understand that, Alex?
+PRED 18155:  Yes, I understand.
+
+SENT 18167:  Why can't you guys just watch the game on TV in the rec room?
+PRED 18167:  I don't want to watch TV.
+
+SENT 18241:  Hi, can I help you?
+PRED 18241:  I'm looking for can Hi,
+
+SENT 18301:  You know what?
+PRED 18301:  I don't want to talk about it.
+
+SENT 18329:  That Jane killed Benjamin Marx and burned his face off?
+PRED 18329:  I don't think so.
+
+SENT 18361:  What picture?
+PRED 18361:  The one you gave me.
+
+SENT 18419:  Did I pass the immigration laws?
+PRED 18419:  I don't know what you're talking about.
+
+SENT 18461:  You still up?
+PRED 18461:  I couldn't sleep.
+
+SENT 18471:  What do these two men have in common?
+PRED 18471:  They're all common?
+
+SENT 18509:  What's the rush?
+PRED 18509:  I have to go to work.
+
+SENT 18523:  What is this regarding?
+PRED 18523:  I'm a friend of regarding?
+
+SENT 18525:  What beauty can my lord find in these mud pits?
+PRED 18525:  A lotus flower What
+
+SENT 18545:  She was like, You're not fucking buying another dog, are you?
+PRED 18545:  She was like, No.
+
+SENT 18547:  Is it true that in the year 1 <unk> you devised the murder of the heads of the Five Families in New York to assume and <unk> your nefarious power?
+PRED 18547:  It's a complete nefarious
+
+SENT 18619:  Yeah, even the Stanford thing?
+PRED 18619:  I don't think that's a very good idea.
+
+SENT 18641:  You want the fucking truth?
+PRED 18641:  I don't know what I want.
+
+SENT 18643:  Should the napkin be entirely <unk> or should the centre crease be allowed to remain?
+PRED 18643:  You should be crease <unk>
+
+SENT 18705:  Would you shut up about it?
+PRED 18705:  I don't want to talk about it.
+
+SENT 18713:  Look, I think you're a snake, okay?
+PRED 18713:  And I want you to be my wife.
+
+SENT 18737:  Cut her some slack, will you?
+PRED 18737:  I don't want her to get hurt.
+
+SENT 18749:  What was the purpose of your actions?
+PRED 18749:  I was trying to protect my family.
+
+SENT 18771:  Why not?
+PRED 18771:  Because I don't want you to get hurt.
+
+SENT 18777:  You coming?
+PRED 18777:  I'll be right there.
+
+SENT 18829:  Well, I'm very sorry for you, but why are you going to the police?
+PRED 18829:  Because I want to help you.
+
+SENT 18857:  You know why?
+PRED 18857:  Because you're a know
+
+SENT 18943:  An adult might think of that, but a 14-year-old boy?
+PRED 18943:  I don't think so.
+
+SENT 18945:  You want to recruit me?
+PRED 18945:  I want to help you.
+
+SENT 19015:  You want a scandal?
+PRED 19015:  I want a divorce.
+
+SENT 19033:  And you know what, Peter?
+PRED 19033:  I don't want to talk about it.
+
+SENT 19045:  Is there something I can help you with?
+PRED 19045:  I need to talk to you.
+
+SENT 19083:  You know what?
+PRED 19083:  I don't want to talk about it.
+
+SENT 19087:  I bet he jumps her all the time, you know?
+PRED 19087:  I mean, he doesn't even look at her.
+
+SENT 19157:  You know what?
+PRED 19157:  I don't want to talk about it.
+
+SENT 19203:  And what about this grudge you're holding against Claire?
+PRED 19203:  I don't know what you're talking about.
+
+SENT 19223:  Why didn't you tell us, Don?
+PRED 19223:  I didn't want you to worry.
+
+SENT 19239:  <unk> figured it out and kills him?
+PRED 19239:  I don't think so.
+
+SENT 19253:  Why can't Harris wear the dress, sir?
+PRED 19253:  Because it's not dress,
+
+SENT 19273:  Why didn't you say anything?
+PRED 19273:  I didn't want you to worry.
+
+SENT 19291:  Hey, would you carry those beds to the store?
+PRED 19291:  I'm trying to sleep.
+
+SENT 19349:  She couldn't stay awake an hour or two more?
+PRED 19349:  No, she couldn't.
+
+SENT 19355:  You know that cop I told you about?
+PRED 19355:  He said he was gonna kill me.
+
+SENT 19403:  And if you lock at them, you just say, number one, how did they build this with primitive tools, if they had tools at all?
+PRED 19403:  And the answer is simple.
+
+SENT 19417:  What was your gain, staying until they sent you away?
+PRED 19417:  As long as we were gain,
+
+SENT 19441:  What do you want me to say?
+PRED 19441:  I don't want you to say anything.
+
+SENT 19447:  Can I help you?
+PRED 19447:  I'm looking for help help
+
+SENT 19471:  What if I can't do it?
+PRED 19471:  Well, then you can do it.
+
+SENT 19529:  Aren't you coming?
+PRED 19529:  No, I have to go home.
+
+SENT 19537:  Oh, aren't you being a little rude?
+PRED 19537:  I don't know what you're talking about.
+
+SENT 19739:  What did you say about cops Just now?
+PRED 19739:  I didn't say anything.
+
+SENT 19861:  You know why I loved you?
+PRED 19861:  Because I loved you.
+
+SENT 19863:  Will it really not hurt?
+PRED 19863:  Of course it will.
+
+SENT 19879:  A little <unk> and a little painful, but you know what?
+PRED 19879:  I think I can handle it.
+
+SENT 19969:  Will you take the responsibility if this happens again?
+PRED 19969:  I will take care of it.
+
+SENT 19979:  28 points?
+PRED 19979:  I don't have much time.
+
+SENT 19993:  Ah, both escaping dodgy <unk> hey?
+PRED 19993:  He was afraid of him.
+

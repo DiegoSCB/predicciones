@@ -1,0 +1,41 @@
+SENT 9:  Yes.
+PRED 9:  What is it?
+
+SENT 61:  Howdy Miz Lampert.
+PRED 61:  Howdy
+
+SENT 63:  This <unk> no game Miz Lampert.
+PRED 63:  This
+
+SENT 67:  ARE YOU THE KILLER <unk>
+PRED 67:  ARE
+
+SENT 71:  So you just <unk> point blank ask your teenage daughter about sex.
+PRED 71:  Yeah.
+
+SENT 75:  Hi honey.
+PRED 75:  Hi.
+
+SENT 91:  Really?
+PRED 91:  Yeah.
+
+SENT 99:  Yes.
+PRED 99:  What is it?
+
+SENT 113:  You ok?
+PRED 113:  Yeah.
+
+SENT 143:  Yes.
+PRED 143:  What is it?
+
+SENT 147:  Yeah I was talking about <unk> the other day and I realized I <unk> had one in years. Then I remembered seeing you with one.
+PRED 147:  Yeah.
+
+SENT 153:  <unk> Sam?
+PRED 153:  Yeah.
+
+SENT 165:  Uh huh?
+PRED 165:  Yeah.
+
+SENT 181:  <unk>
+PRED 181:  No.

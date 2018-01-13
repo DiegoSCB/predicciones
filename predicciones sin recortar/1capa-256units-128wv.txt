@@ -1,0 +1,273 @@
+SENT 1: <unk> <unk> like Id tell you.
+PRED 1: I don't know.
+
+SENT 2: What do you mean no?
+PRED 2: I don't know.
+
+SENT 3: Mrs. Lampert any morning now you could wake up dead.
+PRED 3: Yes.
+
+SENT 4: <unk> afraid that will have to wait Mrs. Lampert.
+PRED 4: <unk>
+
+SENT 5: Yes.
+PRED 5: I don't know.
+
+SENT 6: Where did he keep his money?
+PRED 6: I don't know.
+
+SENT 7: Obviously. One ticket of passage to South America one letter stamped but <unk> addressed to you
+PRED 7: I don't know.
+
+SENT 8: If you will sign this list you may take the things with you.
+PRED 8: I don't know.
+
+SENT 9: Of course it is.
+PRED 9: I don't know.
+
+SENT 10: He was throwing <unk> at Baron <unk> We <unk> know each other do we?
+PRED 10: I don't know.
+
+SENT 11: Please not on my account.
+PRED 11: I don't know.
+
+SENT 12: Doing what?
+PRED 12: I don't know.
+
+SENT 13: Well find you a hotel.
+PRED 13: I don't know.
+
+SENT 14: <unk> Peter.
+PRED 14: I don't know.
+
+SENT 15: Right there between your eyes see? <unk> lines. <unk> much too young and too pretty to have anything like that. How about making me vice president in charge of <unk> you up?
+PRED 15: What do you mean?
+
+SENT 16: What are you doing in here?
+PRED 16: I don't know.
+
+SENT 17: Stop this nonsense If <unk> in some sort of trouble I want to know about it.
+PRED 17: I don't know.
+
+SENT 18: You said this afternoon that your husband was mixed up in something.
+PRED 18: Yes.
+
+SENT 19: On the street where you live.
+PRED 19: I don't know.
+
+SENT 20: How would you like a punch in the nose? Stop treating me like a child.
+PRED 20: I don't know.
+
+SENT 21: Nothing. Good night.
+PRED 21: I don't know.
+
+SENT 22: Lock the door and the window and <unk> let anyone in except me. Ill be back in a minute.
+PRED 22: What do you mean?
+
+SENT 23: No it <unk> <unk> the money?
+PRED 23: I don't know.
+
+SENT 24: Peter <unk> got to promise me something. Promise <unk> never lie the way Charles did. Why do people have to tell <unk>
+PRED 24: I don't know.
+
+SENT 25: I <unk> take that too seriously.
+PRED 25: What do you mean?
+
+SENT 26: You <unk> let what he said bother you. It was only words.
+PRED 26: I don't know.
+
+SENT 27: It belongs to me Miz Lampert an if you <unk> give it to me your life <unk> gonna be worth the paper its printed on. You <unk> what <unk> <unk> Miz Lampert?
+PRED 27: What do you mean?
+
+SENT 28: Can you give me one good reason why I should?
+PRED 28: I don't know.
+
+SENT 29: Have you no idea who could have done it?
+PRED 29: Yes.
+
+SENT 30: Sylvie ? What are you doing here?
+PRED 30: I don't know.
+
+SENT 31: Howdy Miz Lampert.
+PRED 31: Miz
+
+SENT 32: This <unk> no game Miz Lampert.
+PRED 32: This
+
+SENT 33: I think its funny.
+PRED 33: What do you mean?
+
+SENT 34: ARE YOU THE KILLER <unk>
+PRED 34: Yes, sir.
+
+SENT 35: I get all your CDs.
+PRED 35: I don't know.
+
+SENT 36: So you just <unk> point blank ask your teenage daughter about sex.
+PRED 36: No.
+
+SENT 37: I swear to God. Its her. She told Jody she was <unk> <unk> <unk> <unk> getting this <unk> feeling...
+PRED 37: I don't know.
+
+SENT 38: Hi honey.
+PRED 38: Hi.
+
+SENT 39: Not much further.
+PRED 39: What do you mean?
+
+SENT 40: Who is she Daddy?
+PRED 40: I don't know.
+
+SENT 41: Did you warn her?
+PRED 41: Yes.
+
+SENT 42: <unk> not here.
+PRED 42: I don't know.
+
+SENT 43: Can you describe her? How old was she?
+PRED 43: Yes.
+
+SENT 44: Is there a picture of her somewhere?
+PRED 44: Yes.
+
+SENT 45: No.
+PRED 45: I don't know.
+
+SENT 46: Really?
+PRED 46: Yeah.
+
+SENT 47: Why?
+PRED 47: I don't know.
+
+SENT 48: You gave me a D.
+PRED 48: I don't know.
+
+SENT 49: of <unk> <unk> not scared?
+PRED 49: I don't know.
+
+SENT 50: Yes.
+PRED 50: I don't know.
+
+SENT 51: You get to be a little Chelsea Clinton. Everyone wants to meet you. Party with you. Have sex with you.
+PRED 51: I don't know.
+
+SENT 52: <unk> just trying to mess with your head. Ignore him.
+PRED 52: What do you mean?
+
+SENT 53: Oh nice save.
+PRED 53: What do you mean?
+
+SENT 54: Personally I think he has a deep almost pathological desire to corrupt you. But I suppose <unk> a type of love. I certainly wish someone wanted to corrupt me.
+PRED 54: I don't know.
+
+SENT 55: How do you know what to type back when they start to <unk> with you.
+PRED 55: I don't know.
+
+SENT 56: Sandy you have to chill out at least <unk> of the kids in our class are still <unk> He cant butcher all of us.
+PRED 56: I don't know.
+
+SENT 57: You ok?
+PRED 57: Yeah.
+
+SENT 58: Its like a pop your cherry party. <unk> saying its Fuck or Die time.
+PRED 58: I don't know.
+
+SENT 59: Unfortunately I qualify. Think <unk> too old?
+PRED 59: I don't know.
+
+SENT 60: I was supposed to be home fifteen minutes ago.
+PRED 60: I don't know.
+
+SENT 61: I got to get home.
+PRED 61: I don't know.
+
+SENT 62: I heard you got attacked.
+PRED 62: I don't know.
+
+SENT 63: You know I want to go with you.
+PRED 63: I don't know.
+
+SENT 64: You flaunt some slut in my face.
+PRED 64: No.
+
+SENT 65: My <unk> down there
+PRED 65: I don't know.
+
+SENT 66: Mom?
+PRED 66: I don't know.
+
+SENT 67: Did he say anything else about her?
+PRED 67: Yes.
+
+SENT 68: <unk> nobody you should be concerned with.
+PRED 68: I don't know.
+
+SENT 69: I <unk> know. We just did. I guess I was kind of scared going against the <unk> Against the whole town.
+PRED 69: I don't know.
+
+SENT 70: Who?
+PRED 70: Who?
+
+SENT 71: Two men left town right after it happened.
+PRED 71: I don't know.
+
+SENT 72: Yes.
+PRED 72: I don't know.
+
+SENT 73: You got a great mom. <unk> lucky to get a <unk> stick.
+PRED 73: I don't know.
+
+SENT 74: Yeah I was talking about <unk> the other day and I realized I <unk> had one in years. Then I remembered seeing you with one.
+PRED 74: I don't know.
+
+SENT 75: Maybe it <unk> stay in.
+PRED 75: I don't know.
+
+SENT 76: <unk>
+PRED 76: I don't know.
+
+SENT 77: <unk> Sam?
+PRED 77: What do you mean?
+
+SENT 78: The guys a fuckin moron.
+PRED 78: What do you mean?
+
+SENT 79: Since today. New policy.
+PRED 79: I don't know.
+
+SENT 80: Yeah well Darlene <unk> say anything about it to me so tell Andy to bill her like usual and let them sort it out. Move.
+PRED 80: I don't know.
+
+SENT 81: Well he told me to collect cash.
+PRED 81: I don't know.
+
+SENT 82: <unk>
+PRED 82: I don't know.
+
+SENT 83: Uh huh?
+PRED 83: Yes.
+
+SENT 84: <unk> that its cash <unk> gonna give you ten <unk>
+PRED 84: What do you mean?
+
+SENT 85: What did I say?
+PRED 85: I don't know.
+
+SENT 86: No no no. You <unk> need my truck. You need somebody <unk> truck...
+PRED 86: I don't know.
+
+SENT 87: All right.
+PRED 87: I don't know.
+
+SENT 88: Wait wait wait. Hold up. Hold up. Look.
+PRED 88: Yes.
+
+SENT 89: Ill rent the truck from you. You can stay here you can go. Whatever you want.
+PRED 89: No.
+
+SENT 90: All right then how about this?
+PRED 90: I don't know.
+
+SENT 91: <unk>
+PRED 91: I don't know.
+WARNING: -batch_size isn't supported currently, we set it to 1 for now!
